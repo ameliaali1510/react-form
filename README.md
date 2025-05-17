@@ -8,7 +8,10 @@ A simple React app featuring a contact form built with controlled components usi
 - Real-time state updates as user types  
 - Form submission handler (logs form data to the console)  
 - Prevents page reload on form submit
-- 
+
+  ![Screenshot 2025-05-17 155435](https://github.com/user-attachments/assets/ae55b0d4-1c02-42c6-9396-62c3429e80ea)
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

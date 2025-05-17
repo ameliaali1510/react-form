@@ -1,3 +1,14 @@
+# React Contact Form
+
+A simple React app featuring a contact form built with controlled components using React's `useState` hook.
+
+## Features
+
+- Controlled inputs for Name and age fields  
+- Real-time state updates as user types  
+- Form submission handler (logs form data to the console)  
+- Prevents page reload on form submit
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

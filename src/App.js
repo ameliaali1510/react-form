@@ -1,14 +1,15 @@
-// App.js
+
 import React from 'react';
-import Form from './Form';
+import Form from './components/Form';
+import './App.css';
 
 const App = () => {
   return (
-    <div>
+    <div className="app-container">
       <h1>Contact Us</h1>
       <Form />
     </div>
   );
-}
+};
 
 export default App;
